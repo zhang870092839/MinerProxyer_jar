@@ -18,7 +18,6 @@
     <build>
         <finalName>ProxyerPipe</finalName>
         <sourceDirectory>src/main/java</sourceDirectory>
-        <testSourceDirectory>src/test/java</testSourceDirectory>
         <plugins>
             <!--
               Bind the maven-assembly-plugin to the package phase
